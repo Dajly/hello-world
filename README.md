@@ -1,2 +1,3 @@
 # hello-world
-Trying stuffz out
+Trying stuffz
+jag heter jim. pelle har en boll. Denna readme för att lanl
